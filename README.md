@@ -17,7 +17,7 @@ The use of computer-assisted systems is a major step toward improving vehicle sa
 - Use of **speed sensors, friction analysis, and inference models**
 
 ## 📥 Download Paper
-[Click Here](./Review_Paper_Automatic_Braking.pdf) to access the full paper.
+[Click Here](./Review_Paper_Automatic_Braking_fuzzy_logic.pdf) to access the full paper.
 
 ## 🔗 References
 This paper references multiple research studies on **braking systems, AI, and fuzzy logic**. See the full document for citation details.
